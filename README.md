@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/jDGwgww/Beige-Black-Geometric-Technology-Linked-In-Banner.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Abhijnan Gupta</h1>
 <h3 align="center">I have an interest in full stack developer, Database Administrator, IT Support fields</h3>
