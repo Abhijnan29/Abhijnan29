@@ -33,3 +33,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijnan29&" alt="abhijnan29" /></p>
 
+[![Abhijnan29's GitHub | Stats](https://stats.quine.sh/Abhijnan29/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Abhijnan29)
+
+
+
