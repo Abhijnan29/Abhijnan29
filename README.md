@@ -29,6 +29,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijnan29" alt="abhijnan29" /></p>
 
+[![Abhijnan29's GitHub | Dependencies](https://stats.quine.sh/Abhijnan29/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Abhijnan29)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhijnan29" alt="abhijnan29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijnan29&" alt="abhijnan29" /></p>
