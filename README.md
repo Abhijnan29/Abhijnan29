@@ -37,6 +37,7 @@
 
 [![Abhijnan29's GitHub | Stats](https://stats.quine.sh/Abhijnan29/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Abhijnan29)
 
+[![An image of @abhijnan29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhijnan29)](https://holopin.io/@abhijnan29)
 
 
 
