@@ -3,7 +3,10 @@
 <h1 align="center">Hi 👋, I'm Abhijnan Gupta</h1>
 <h3 align="center">I have an interest in AI, ML, DL</h3>
 <h3 align="center">Also interest in PowerBI, Blockchain</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" height="100">
+<br><br>
+<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijnan29&label=Profile%20views&color=0e75b6&style=flat" alt="abhijnan29" /> </p>
 
