@@ -1,5 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)](https://rishavchanda.io)
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/rtBHc2p/hello-world.gif" alt="hello-world" height="450" width="1500" border="0"></a>
 <h1 align="center">Hi 👋, I'm Abhijnan Gupta</h1>
 <h3 align="center">I have an interest in AI, ML, DL</h3>
 <h3 align="center">Also interest in PowerBI, Blockchain</h3>
