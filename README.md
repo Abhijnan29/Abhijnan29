@@ -1,7 +1,6 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/rtBHc2p/hello-world.gif" alt="hello-world" height="450" width="1500" border="0"></a>
 <h1 align="center">Hi 👋, I'm Abhijnan Gupta</h1>
-<h3 align="center">I have an interest in AI, ML, DL</h3>
-<h3 align="center">Also interest in PowerBI, Blockchain</h3>
+
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
 <img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" height="100">
 <br><br>
@@ -11,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijnan29" alt="abhijnan29" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Cloud Computing**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me **abhijnan2002@gmail.com**
 
