@@ -1,5 +1,5 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/rtBHc2p/hello-world.gif" alt="hello-world" height="450" width="1500" border="0"></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&color=152EF7&random=false&width=1000&lines=Hello,+I'm+Abhijnan+Gupta,+As+an+open-source+contributor+enthusiast+in+ML" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&color=152EF7&random=false&width=1000&lines=Hello,+I'm+Abhijnan+Gupta,+blending+my+passion+for+technology+and +innovation...." alt="Typing SVG" /></a>
 
 
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
