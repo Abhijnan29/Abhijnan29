@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhijnan29&theme=gruvbox" alt="abhijnan29" /></a> </p>
 
-- 🌱 I'm currently immersed in a **Deep Learning-based project**
+- 🌱 I'm currently immersed in a **Vanilla JS**
 
 - 📫 How to reach me **abhijnan2002@gmail.com**
 
