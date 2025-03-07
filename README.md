@@ -46,18 +46,18 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijnan29" alt="abhijnan29" /></p>
 
-[![Abhijnan29's GitHub | Dependencies](https://stats.quine.sh/Abhijnan29/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Abhijnan29)
+<!--[![Abhijnan29's GitHub | Dependencies](https://stats.quine.sh/Abhijnan29/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Abhijnan29)-->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijnan29&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhijnan29" alt="abhijnan29" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijnan29&" alt="abhijnan29" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijnan29&" alt="abhijnan29" /></p>-->
 
 
 
 
-[![Abhijnan29's GitHub | Stats](https://stats.quine.sh/Abhijnan29/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Abhijnan29)
+<!--[![Abhijnan29's GitHub | Stats](https://stats.quine.sh/Abhijnan29/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Abhijnan29)-->
 
 [![An image of @abhijnan29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhijnan29)](https://holopin.io/@abhijnan29)
 
