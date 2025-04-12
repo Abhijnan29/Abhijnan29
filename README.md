@@ -4,8 +4,15 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijnan29&label=Profile%20views&color=0e75b6&style=flat" alt="abhijnan29" /> </p>
 
+<br>
+<br>
+
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br>
+<br>
+<br>
+
 🔭 I’m currently working on Angular, .Net<br>🌱 I’m currently learning Angular, .Net, SQL Server, Azure <br>💬 Ask
 me about Full Stack Development<br>👯 I’m looking to collaborate on working effectively to achieve common goals in software development <br>📫 How to reach me abhijnan2002@gmail.com<br>
 
