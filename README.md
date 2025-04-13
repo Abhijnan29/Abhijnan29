@@ -47,16 +47,16 @@ me about Full Stack Development<br>👯 I’m looking to collaborate on working 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abhijnan29&theme=gruvbox" alt="abhijnan29" /></a> </p>
 <br>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abhijnan29&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abhijnan29&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=Abhijnan29&icon=0&color=0)](https://visitcount.itsvg.in)-->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijnan29&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
 
