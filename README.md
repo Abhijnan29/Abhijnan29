@@ -1,7 +1,7 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/rtBHc2p/hello-world.gif" alt="hello-world" height="450" width="1500" border="0"></a>
 <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira&width=435&lines=Hello,+I'm+Abhijnan+Gupta,+blending+my+passion+for+technology+and +innovation...." alt="Typing SVG" /></a>-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=8000&pause=1000&width=435&lines=Tech-savvy%2C+innovative%2C+Abhijnan+Gupta.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&duration=8000&pause=1000&width=900&lines=Tech-savvy,+innovative,+Abhijnan.)](https://git.io/typing-svg)
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijnan29&label=Profile%20views&color=0e75b6&style=flat" alt="abhijnan29" /> </p>
 
