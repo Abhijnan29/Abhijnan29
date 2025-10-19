@@ -14,7 +14,7 @@
 <br>
 <br>
 
-🔭 I’m currently working on Angular, .Net<br>🌱 I’m currently learning Angular, .Net, SQL Server, Azure <br>💬 Ask
+🔭 I’m currently working on Angular, Typescript<br>🌱 I’m currently learning Angular, .Net, SQL Server, Azure <br>💬 Ask
 me about Full Stack Development<br>👯 I’m looking to collaborate on working effectively to achieve common goals in software development <br>📫 How to reach me abhijnan2002@gmail.com<br>
 
 <br>
